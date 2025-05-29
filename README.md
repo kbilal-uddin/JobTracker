@@ -2,6 +2,7 @@ JobTracker
 JobTracker is a project designed to help manage and track job applications effectively. It also serves as a playground to implement and improve advanced code architecture and design patterns.
 
 🎯 Purpose
+
 **Track Job Applications**
 Easily manage and review your job applications, including statuses, companies, roles, and outcomes.
 The goal is to gain insights into why certain applications may be rejected and improve future submissions.
